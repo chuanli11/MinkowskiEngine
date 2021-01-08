@@ -9,3 +9,6 @@ build/
 objs/
 dist/
 MinkowskiEngine.egg-info/
+ddi_samples/*
+*.zip
+*.pth
